@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="title_activity_search">Search</string>
+    <string name="add">+</string>
+    <string name="search" />
+    <string name="icon">icon</string>
+    <string name="cancel">cancel</string>
+    <string name="addContact">add</string>
+    <string name="editPhoto">edit photo</string>
+    <string name="getFName">First Name</string>
+    <string name="getPhoneNum">Phone Number</string>
+    <string name="getLName">Last Name</string>
+    <string name="getStreet">Street Address</string>
+    <string name="getCity">City</string>
+    <string name="getState">State</string>
+    <string name="getEmail">Email</string>
+    <string name="getDesc">Description</string>
+    <string name="contact1">Isaiah DeBenedetto</string>
+    <string name="editButton">edit</string>
+    <string name="removeButton">Remove</string>
+</resources>
